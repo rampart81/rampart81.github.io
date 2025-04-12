@@ -3,6 +3,9 @@
 #
 remote_theme: no-style-please
 
+plugins:
+  - jekyll-remote-theme
+
 # Name of your site (displayed in the header)
 name: 송은우 (Eun Woo Song)
 
