@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 plugins:
   - jekyll-remote-theme
