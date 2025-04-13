@@ -1,10 +1,6 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: riggraz/no-style-please
-
-plugins:
-  - jekyll-remote-theme
 
 # Name of your site (displayed in the header)
 name: 송은우 (Eun Woo Song)
@@ -88,3 +84,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Themes
+remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-remote-theme
