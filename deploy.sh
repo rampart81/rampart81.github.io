@@ -3,7 +3,7 @@
 set -e # 중간에 에러 나면 스크립트 중지
 
 echo "📦 Jekyll 빌드 시작..."
-bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build
 
 echo "🌳 gh-pages 임시 브랜치 생성..."
 git subtree split --prefix _site -b gh-pages-temp
