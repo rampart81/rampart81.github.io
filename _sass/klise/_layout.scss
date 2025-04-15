@@ -190,9 +190,10 @@
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
-    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
     user-select: none;
     background-color: $black;
     -ms-user-select: none;
@@ -210,7 +211,7 @@
   .author-bio {
     margin: 0 auto;
     opacity: 0.9;
-    //max-width: 393px;
+    max-width: 400px;
     line-height: 1.688;
   }
 }

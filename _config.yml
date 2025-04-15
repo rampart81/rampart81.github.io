@@ -13,8 +13,8 @@ mode: light # default theme "dark" | "light"
 author:
   name: 송은우(Eun Woo Song)
   bio: >- # tell to the world
-    믿음과 실행력 사이에서 스타트업을 항해하는 크리스천 CEO.</br>
-    Graceful Rain 대표이자, 교육 혁신을 꿈꾸는 에듀테크 창업가입니다.
+    믿음과 소명을 가지고</br>스타트업을 항해하는 크리스천 CEO 이자</br>
+    교육 혁신을 꿈꾸는 에듀테크 스타트업</br>Graceful Rain의 창업가입니다.
   username:  # general username
   github: rampart81 # github username
   twitter:  # twitter username
