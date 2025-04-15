@@ -5,7 +5,7 @@ description: >- # site description
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image:  # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/rampart81/rampart81.github.io
 mode: light # default theme "dark" | "light"
 
